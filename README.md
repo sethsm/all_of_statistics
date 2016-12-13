@@ -1,2 +1,3 @@
-# all_of_statistics
+All of Statistics
+
 Answers to exercises in All of Statistics by Larry Wasserman
